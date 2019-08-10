@@ -72,4 +72,5 @@ public void Configure(IApplicationBuilder app, IHostingEnvironment env)
 ## Publish 
 
 `dotnet electronize build /target osx`
+`dotnet electronize build /target win`
 

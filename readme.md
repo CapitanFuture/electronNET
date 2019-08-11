@@ -12,6 +12,9 @@
 `sudo npm install electron-builder --global`
 `sudo npm install electron-packager --global`
 
+`sudo yarn global add electron-builder`
+`sudo yarn global add electron-packager`
+
 Add the following to your csproj
 
 ```xml
